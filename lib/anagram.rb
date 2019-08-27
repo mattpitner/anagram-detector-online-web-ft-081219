@@ -15,7 +15,7 @@ class Anagram
       
     end 
       
-      binding.pry 
+      
     
   end 
   
