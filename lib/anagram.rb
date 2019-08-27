@@ -11,13 +11,6 @@ class Anagram
   def match(array)
     array.select do |word1|
      (word1.split("").sort == @word.split("").sort)
-    
-      
     end 
-      
-      
-    
   end 
-  
-  
 end 
